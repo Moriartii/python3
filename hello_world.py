@@ -9,6 +9,7 @@ import this
 for x in range(10):
     print("Hello World!")
     time.sleep(0.2)
-    
 
-print("da was dat?")
+check = "check"
+print("")
+print(f'who {check} this?')
